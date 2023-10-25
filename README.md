@@ -1,6 +1,6 @@
 
 # Hi 👋 I am Wallyson! 
-I am a SRE with a technologist course in Computer Networks, in addition to several courses promoting continuing education for an assertive and up-to-date performance.
+I am a SRE | DevOps Engineer with a technologist course in Computer Networks, where I have experience with Docker, Kubernetes, AWS, Azure, Terraform, Prometheus, Crossplane, ArgoCD, CircleCI, GitlabCI, Helm, Linux, Programming (Bash and Python) and others
 
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/wallyson-romeiro/) for more information and to get in touch.
 - ✍️ Follow me on [Medium](https://medium.com/@wallysonromeiro)) for more written content.
